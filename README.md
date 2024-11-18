@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm [Vlad!](https://github.com/Vladic07/Vladic07/)
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 I'm a Blockchain Enthusiast who wants to become a developer
 
 - 📚 Learning everything about web3
@@ -20,5 +22,5 @@ I'm a Blockchain Enthusiast who wants to become a developer
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 <br/>
