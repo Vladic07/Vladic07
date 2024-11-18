@@ -1,12 +1,9 @@
 ### Hi there 👋 I'm [Vlad!](https://github.com/Vladic07/Vladic07/)
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 I'm a Blockchain Enthusiast who wants to become a developer
 
 - 📚 Learning everything about web3
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 ---
 
 ##### Languages I use
